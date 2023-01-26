@@ -7,3 +7,4 @@ print("The factors of", num_1, "are:")
 for factor in range(2, num_1):
   if num_1 % factor == 0:
       print(factor)
+
